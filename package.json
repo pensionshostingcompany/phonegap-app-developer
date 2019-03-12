@@ -55,7 +55,9 @@
     "phonegap-plugin-barcodescanner": "^6.0.8",
     "phonegap-plugin-contentsync": "^1.4.1",
     "phonegap-plugin-mobile-accessibility": "^1.0.5",
-    "phonegap-plugin-push": "^2.1.2"
+    "phonegap-plugin-push": "^2.1.2",
+    "cordova-plugin-secure-storage": "^3.0.1",
+    "cordova-plugin-iroot": "^0.8.0"
   },
   "devDependencies": {
     "app-root-path": "1.0.0",
@@ -119,7 +121,9 @@
       "phonegap-plugin-push": {
         "FCM_VERSION": "11.0.1"
       },
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-secure-storage": {},
+      "cordova-plugin-iroot": {}
     }
   }
 }
